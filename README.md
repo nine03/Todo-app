@@ -27,6 +27,6 @@
 
 # 自定义配置(Customize configuration)
 
-See 
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - 这个项目是我为了重新学习Javascript,Html,vue而做的项目。（이 프로젝트는 내가 Javascript,Html,vue를 다시 공부하기위해서 만든 프로젝트입니다.）
